@@ -27,6 +27,9 @@ public class aritmetica
     
     //GREDORIO
     
-    
+    public int multiplicaion(int a,int b)
+    {
+        return a*b;
+    }
     
 }
