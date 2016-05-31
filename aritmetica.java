@@ -19,8 +19,6 @@ public class aritmetica
     }
     
     //MARCO
-
-	public int 
     
     //RODRIGO
     
