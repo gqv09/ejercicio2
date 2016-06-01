@@ -24,6 +24,15 @@ public class aritmetica
         return a-b;
     }
     //RODRIGO
+    public float division(int a,int b){
+        int c=-1;
+        if(b!=0){
+            c=a/b;
+        }else{
+        System.out.println("error   b=0");
+        }
+        return c;
+    }
     
     //GREDORIO
     
